@@ -1,6 +1,6 @@
 {
   "latest_version": "2.0.4",
-  "force_update": true,
+  "force_update": false,
   "update_message": "Yeni güncelleme mevcut! Lütfen uygulamayı güncelleyin.",
   "ios_url": "https://apps.apple.com/us/app/balance-master-scale-physics/id6760507040",
   "android_url": "https://play.google.com/store/apps/details?id=com.atabekhsa.superbalance"
